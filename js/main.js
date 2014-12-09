@@ -109,7 +109,8 @@ var arrData =
         'name': 'Marc Qualie',
         'companies': [
             'Givey',
-            'PHG'
+            'PHG',
+            'FOG'
         ]
     }, {
         'companies': [
@@ -119,9 +120,19 @@ var arrData =
     }, {
         'name': 'Scott Robertson',
         'companies': [
+            'FOG'
             'PHG',
             'CANDDi',
             'RiffRaff'
+        ]
+    }, {
+        'name': 'Chris Roach',
+        'companies': [
+            'FOG',
+            'Azure Design',
+            'Daykin and Storey',
+            'Recite',
+            'Moltin'
         ]
     }, {
         'name': 'Martin Bean',
@@ -132,7 +143,6 @@ var arrData =
             'Freelance'
         ]
     }, {
-
         'companies': [
             'Azure Design',
             'Daykin and Storey',
